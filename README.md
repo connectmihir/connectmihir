@@ -1,7 +1,7 @@
 # Hey 👋, I'm Mihir Ranjan  
 
-**Web Developer | UI/UX Designer | Crypto Enthusiast**  
-🌱 *Exploring code, design & Web3 — one step at a time.* 🚀  
+**Web Developer | UI/UX Designer | Crypto Enthusiast | SEO Explorer**  
+🌱 *Exploring code, design, Web3 & optimisation — one step at a time.* 🚀  
 
 ---
 
@@ -42,6 +42,21 @@
 
 ---
 
+## ⚡ SEO & Optimisation  
+
+- 🔍 Skilled in **SEO-friendly development** (semantic HTML, meta tags, structured data)  
+- ⚡ Experience with **PageSpeed Insights, Lighthouse, and Core Web Vitals**  
+- 🌎 Optimising sites for **performance, accessibility, and responsiveness**  
+- 📊 Knowledge of **Google Analytics & Search Console** for tracking growth  
+
+<p>
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lighthouse-FF6F00?style=for-the-badge&logo=lighthouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -60,7 +75,7 @@
 - ⚡ Building scalable **web apps** with smooth user experiences  
 - 📱 Improving **UI/UX design** through real-world projects  
 - 🔐 Learning **blockchain & smart contracts**  
-- ✍️ Sharing **insights & articles** on design and development  
+- ✍️ Sharing **insights on SEO, design, and development**  
 
 ---
 
@@ -72,4 +87,4 @@
 
 ---
 
-✨ *"Code + Design + Curiosity = Growth"* ✨
+✨ *"Code + Design + SEO = Impact"* ✨
