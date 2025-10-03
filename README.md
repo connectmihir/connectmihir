@@ -60,12 +60,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="Mihir's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=connectmihir&show_icons=true&theme=tokyonight" alt="Mihir's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=connectmihir&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectmihir&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
