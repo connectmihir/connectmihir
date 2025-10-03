@@ -42,22 +42,6 @@
 
 ---
 
-## 🎨 Latest Dribbble Shots  
-
-<p align="center">
-  <a href="https://dribbble.com/shots/26313600-Sexologist-Website" target="_blank">
-    <img src="https://cdn.dribbble.com/userupload/15126840/file/original-d7fa8c4a06bdbca4a157d8e6826aa0b0.png" width="400" alt="Sexologist Website Design"/>
-  </a>
-</p>
-
-<p align="center">
-  🔗 See more of my work on <a href="https://dribbble.com/connectmihir" target="_blank">Dribbble</a>
-</p>
-
-
-
----
-
 ## ⚡ SEO & Optimisation  
 
 - 🔍 Skilled in **SEO-friendly development** (semantic HTML, meta tags, structured data)  
