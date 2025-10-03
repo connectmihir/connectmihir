@@ -10,7 +10,7 @@
 - 🔭 Currently building a **Crypto Trading Web Application**  
 - 🎨 Passionate about **UI/UX design** and creative interfaces  
 - 🌐 Exploring **full-stack development** (React, Node.js, Express, MongoDB)  
-- 📈 Interested in **Blockchain, Web3, and trading systems**  
+- 📈 Interested in **Blockchain, Web3, SEO, and trading systems**  
 - 🎯 Goal: Keep learning, keep building, keep shipping  
 
 ---
@@ -37,7 +37,7 @@
 ## 🛠️ Tech Toolbox  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,vscode,linux,bootstrap,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,vscode,linux,bootstrap,cpp,wordpress" />
 </p>
 
 ---
@@ -54,6 +54,32 @@
   <img src="https://img.shields.io/badge/Lighthouse-FF6F00?style=for-the-badge&logo=lighthouse&logoColor=white" />
   <img src="https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </p>
+
+---
+
+## 💼 Past Experience (Internships)  
+
+<details>
+  <summary>🔹 SEO & Web Development Intern — <i>Telos Digital Solution</i> (click to expand)</summary>  
+
+**Projects Completed:**  
+- Created an **SEO-optimised website** generating *5k+ impressions*, *2%+ CTR* with avg. position of *22*.  
+- Built and optimised **37 technical blogs** (SEO, content marketing, local SEO) → *27k+ impressions*.  
+- Designed & deployed **9 websites** for B2B, D2C, and portfolios.  
+- Provided **WordPress training** and created basic HTML sites to meet business goals.  
+- Developed and managed a **content HubSpot** to increase organic visibility and traffic.  
+
+**Key Achievements:**  
+1. Ranked site on Google for **200+ keywords in 3 months**.  
+2. Achieved avg. position **#50** across targeted keywords.  
+3. Secured top Bing positions for **130+ keywords** (avg. under top 5).  
+4. Generated **27k+ impressions** and **45+ organic clicks** with SEO.  
+5. Drove **1.4k+ impressions** via image search with 10+ clicks.  
+6. Generated **1.5k+ Bing impressions** and 18+ clicks (CTR > 1.4%).  
+7. Implemented **on-page SEO, keyword research, content strategy, and technical SEO**.  
+8. Continuously monitored with **Google Analytics, Search Console, and SEO tools** for refinement.  
+
+</details>  
 
 ---
 
