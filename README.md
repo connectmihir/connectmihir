@@ -37,7 +37,7 @@
 ## 🛠️ Tech Toolbox  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,git,github,vscode,linux,bootstrap,wordpress,python,php,jupyternotebook" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,git,github,vscode,linux,bootstrap,wordpress,python,php,jupyter" />
 </p>
 
 ---
