@@ -1,21 +1,21 @@
 # Hey 👋, I'm Mihir Ranjan  
 
 **Web Developer | UI/UX Designer | Crypto Enthusiast | SEO Explorer**  
-🌱 *Exploring code, design, Web3 & optimisation — one step at a time.* 🚀  
+*Exploring code, design, Web3 & optimisation — one step at a time.* 
 
 ---
 
-## 👨‍💻 About Me  
+## About Me  
 
-- 🔭 Currently building a **Crypto Trading Web Application**  
-- 🎨 Passionate about **UI/UX design** and creative interfaces  
-- 🌐 Exploring **full-stack development** (React, Node.js, Express, MongoDB)  
-- 📈 Interested in **Blockchain, Web3, SEO, and trading systems**  
-- 🎯 Goal: Keep learning, keep building, keep shipping  
+- Currently building a **Crypto Trading Web Application**  
+- Passionate about **UI/UX design** and creative interfaces  
+- Exploring **full-stack development** (React, Node.js, Express, MongoDB)  
+- Interested in **Blockchain, Web3, SEO, and trading systems**  
+- Goal: Keep learning, keep building, keep shipping  
 
 ---
 
-## 🔗 Connect With Me  
+## Connect With Me  
 
 <p>
   <a href="https://www.linkedin.com/in/mihirrr/" target="_blank">
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Toolbox  
+## Tech Toolbox  
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,git,github,vscode,linux,bootstrap,wordpress,python,php,jupyter" />
@@ -42,12 +42,12 @@
 
 ---
 
-## ⚡ SEO & Optimisation  
+## SEO & Optimisation  
 
-- 🔍 Skilled in **SEO-friendly development** (semantic HTML, meta tags, structured data)  
-- ⚡ Experience with **PageSpeed Insights, Lighthouse, and Core Web Vitals**  
-- 🌎 Optimising sites for **performance, accessibility, and responsiveness**  
-- 📊 Knowledge of **Google Analytics & Search Console** for tracking growth  
+- Skilled in **SEO-friendly development** (semantic HTML, meta tags, structured data)  
+- Experience with **PageSpeed Insights, Lighthouse, and Core Web Vitals**  
+- Optimising sites for **performance, accessibility, and responsiveness**  
+- Knowledge of **Google Analytics & Search Console** for tracking growth  
 
 <p>
   <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -57,10 +57,10 @@
 
 ---
 
-## 💼 Past Experience (Internships)  
+## Past Experience (Internships)  
 
 <details>
-  <summary>🔹 SEO & Web Development Intern — <i>Telos Digital Solution</i> (click to expand)</summary>  
+  <summary>SEO & Web Development Intern — <i>Telos Digital Solution</i> (click to expand)</summary>  
 
 **Projects Completed:**  
 - Created an **SEO-optimised website** generating *5k+ impressions*, *2%+ CTR* with avg. position of *22*.  
@@ -83,7 +83,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=connectmihir&show_icons=true&theme=tokyonight" alt="Mihir's GitHub stats" height="160"/>
@@ -96,21 +96,21 @@
 
 ---
 
-## 🚀 Current Focus  
+## Current Focus  
 
-- ⚡ Building scalable **web apps** with smooth user experiences  
-- 📱 Improving **UI/UX design** through real-world projects  
-- 🔐 Learning **blockchain & smart contracts**  
-- ✍️ Sharing **insights on SEO, design, and development**  
-
----
-
-## 🌟 Fun Facts  
-
-- 🎮 Love exploring **gaming + coding crossovers**  
-- ✈️ Dreaming of building products that reach people globally  
-- 💡 Always looking for opportunities to **collaborate & create**  
+- Building scalable **web apps** with smooth user experiences  
+- Improving **UI/UX design** through real-world projects  
+- Learning **blockchain & smart contracts**  
+- Sharing **insights on SEO, design, and development**  
 
 ---
 
-✨ *"Code + Design + SEO = Impact"* ✨
+## Fun Facts  
+
+- Love exploring **gaming + coding crossovers**  
+- Dreaming of building products that reach people globally  
+- Always looking for opportunities to **collaborate & create**  
+
+---
+
+*"Code + Design + SEO = Impact"* 
