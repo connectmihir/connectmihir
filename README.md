@@ -1,16 +1,15 @@
 # Hey 👋, I'm Mihir Ranjan  
 
-**Web Developer | UI/UX Designer | Crypto Enthusiast | SEO Explorer**  
+**UI/UX Designer | Web Developer | SEO Specialist**  
 *Exploring code, design, Web3 & optimisation — one step at a time.* 
 
 ---
 
 ## About Me  
-
-- Currently building a **Crypto Trading Web Application**  
+ 
 - Passionate about **UI/UX design** and creative interfaces  
 - Exploring **full-stack development** (React, Node.js, Express, MongoDB)  
-- Interested in **Blockchain, Web3, SEO, and trading systems**  
+- Interested in ** Web3, SEO, and trading systems**  
 - Goal: Keep learning, keep building, keep shipping  
 
 ---
