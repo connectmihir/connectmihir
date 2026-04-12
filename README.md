@@ -8,7 +8,7 @@
 ## About Me  
  
 - Passionate about **UI/UX design** and creative interfaces  
-- Exploring **full-stack development** (React, Node.js, Express, MongoDB)  
+- Exploring **full-stack development** (PHP Laravel, MySQL)  
 - Interested in ** Web3, SEO, and trading systems**  
 - Goal: Keep learning, keep building, keep shipping  
 
