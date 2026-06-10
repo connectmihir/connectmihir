@@ -99,12 +99,4 @@
 
 ---
 
-## Fun Facts  
-
-- Love exploring **gaming + coding crossovers**  
-- Dreaming of building products that reach people globally  
-- Always looking for opportunities to **collaborate & create**  
-
----
-
 *"Code + Design + SEO = Impact"* 
