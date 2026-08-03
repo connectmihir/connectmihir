@@ -38,6 +38,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,git,github,vscode,linux,bootstrap,wordpress,python,php,mysql,docker,jupyternotebook, ruby" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+</p>
 
 ---
 
